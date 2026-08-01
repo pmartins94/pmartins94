@@ -18,5 +18,5 @@ ___Early days. Learning out loud on purpose.___
 
 | | Project | The interesting part |
 |---|---|---|
-| ✉️ | [**email-agent**](https://github.com/pmartins94/email-agent) | Drafts replies to partner emails. Built in three passes (naive prompt, hand-fed context, then RAG and tools) to find the exact point where retrievable context runs out and tacit judgment takes over. |
+| ✉️ | [**email-agent**](https://github.com/pmartins94/email-agent) | Drafts replies to partner emails. Built in three passes (naive prompt, hand-fed context, then RAG and tools) to find the exact point where retrievable context runs out and tacit judgment takes over. [Here's what I learned!](https://github.com/pmartins94/email-agent#insights)|
 | 🔭 | *next up* | Automating the recurring parts of my own job: competitive watch, support signal triage. |
